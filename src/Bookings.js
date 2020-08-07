@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Search from "./Search.js";
-import SearchResults from "./SearchResults.js";
+import SearchResults from "./SearchResult.js";
 import BookingForm from "./BookingForm";
 import "./App.css";
 
